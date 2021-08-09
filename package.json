@@ -1,0 +1,13 @@
+{
+  "name": "node_hello_world",
+  "version": "1.0.0",
+  "description": "Simple hello world app for testing",
+  "author": "Martin Perez <martinpe@vmware.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
